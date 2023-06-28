@@ -17,3 +17,7 @@ This is regular text.
 public static void main(String[] args) {
 }
 ```
+
+One enter will 
+not make two 
+lines.
